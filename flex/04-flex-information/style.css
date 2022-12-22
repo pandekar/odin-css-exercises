@@ -24,3 +24,10 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* try out */
+
+body .img {
+  display: flex;
+  flex-direction: row;
+}
